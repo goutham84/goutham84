@@ -3,9 +3,9 @@
 
 - 💻 Passionate about **Data Science, Machine Learning, and AI-driven solutions**
 
-- 🌱 I’m currently learning [GenAI](GenAI)
+- 🌱 I’m currently learning GenAI
 
-- 💬 Ask me about [Data Science and AI](Data Science and AI)
+- 💬 Ask me about **Data Science and AI**
 
 - 🛠️ Skilled in **Python, SQL, TensorFlow, Power BI, Tableau, and more**
 
