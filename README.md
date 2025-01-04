@@ -1,13 +1,19 @@
 <h1 align="center">Hi 👋, I'm Kachhawa Goutham</h1>
 <h3 align="center">Passionate Data Science and AI enthusiast from India</h3>
 
-- 🌱 I’m currently learning **GenAI**
+- 💻 Passionate about **Data Science, Machine Learning, and AI-driven solutions**
 
-- 💬 Ask me about **Data Science and AI**
+- 🌱 I’m currently learning [GenAI](GenAI)
 
-- 📫 How to reach me **kachhawa.1@iitj.ac.in**
+- 💬 Ask me about [Data Science and AI](Data Science and AI)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1asoorzYDOz-DhWbDThmu2PB92cowFx2A/view?usp=sharing](https://drive.google.com/file/d/1asoorzYDOz-DhWbDThmu2PB92cowFx2A/view?usp=sharing)
+- 🛠️ Skilled in **Python, SQL, TensorFlow, Power BI, Tableau, and more**
+
+- 📊 Experienced in **building insightful dashboards and ML models**
+
+- 📫 How to reach me [kachhawa.1@iitj.ac.in](kachhawa.1@iitj.ac.in)
+
+- 📄 Know about my experiences **https://drive.google.com/file/d/1asoorzYDOz-DhWbDThmu2PB92cowFx2A/view?usp=sharing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
