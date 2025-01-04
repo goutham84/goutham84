@@ -14,7 +14,6 @@
 
 - 📫 How to reach me [kachhawa.1@iitj.ac.in](kachhawa.1@iitj.ac.in)
 
-- 📄 Know about my experiences **https://drive.google.com/file/d/1asoorzYDOz-DhWbDThmu2PB92cowFx2A/view?usp=sharing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
