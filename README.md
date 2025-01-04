@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Data Science and AI**
 
-- 🛠️ Skilled in **Python, SQL, Power BI, Machine Learning, Deep Learning, NLP and more**
+- 🛠️ Skilled in **Python, SQL, Power BI, ML, DL, NLP and more**
 
 - 📊 Experienced in **building insightful dashboards and ML models**
 
