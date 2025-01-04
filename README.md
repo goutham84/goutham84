@@ -2,7 +2,7 @@
 <h3 align="center">Passionate Data Science and AI Enthusiast from India</h3>
 <img align="right" alt="Coding" width="400", src="https://github.com/goutham84/goutham84/blob/main/coding_no_background.png">
 
-- 💻 Passionate about **Data Science, Machine Learning, and AI-driven solutions**
+- 💻 Passionate about **Data Science, AI/ML**
 
 - 🌱 I’m currently learning **GenAI**
 
