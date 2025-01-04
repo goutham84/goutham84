@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kachhawa Goutham</h1>
 <h3 align="center">Passionate Data Science and AI Enthusiast from India</h3>
-<img align="right" alt="Coding" width="400", src="https://github.com/goutham84/goutham84/blob/main/coding.jpg">
+<img align="right" alt="Coding" width="400", src="https://github.com/goutham84/goutham84/blob/main/coding_no_background.png">
 
 - 💻 Passionate about **Data Science, Machine Learning, and AI-driven solutions**
 
